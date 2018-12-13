@@ -17,4 +17,4 @@ Este projeto consiste na criação de uma classe utilitária em Java para repres
 
 ## Copyright
 
-Esse projeto foi desenvolvido por Márcio Souza de Oliveira.
+Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 13/09/2016.
